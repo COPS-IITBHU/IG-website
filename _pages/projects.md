@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "COPS IG - Projects"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Projects"
 sitemap: false
-permalink: /vacancies
+permalink: /projects
 ---
 
 # Open positions

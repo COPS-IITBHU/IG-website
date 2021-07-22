@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Publications"
+title: "COPS IG - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "COPS IG -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 

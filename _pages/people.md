@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Team"
+title: "COPS IG - People"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "COPS IG: People"
 sitemap: false
-permalink: /team/
+permalink: /people
 ---
 
 # Group Members

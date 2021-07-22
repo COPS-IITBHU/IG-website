@@ -1,0 +1,26 @@
+- title: Home
+  url: /
+- title: People
+  url: /people
+- title: Projects
+  url: /projects
+- title: Blog
+  url: /blog
+- title: Resources
+  url: /
+  sublinks:
+      - title: AI Roadmap
+        url: /roadmap
+      - title: AI Exercise
+        url: /excercise
+      - title: Other Links
+        url: /other
+- title: Publication
+  url: /publications
+- title: Activities
+  url: /
+  sublinks:
+      - title: ML Talks
+        url: /mltalks
+      - title: "RL and multiagent systems: paper reading group"
+        url: /paperread

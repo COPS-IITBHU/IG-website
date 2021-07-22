@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "COPS IG - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "COPS IG at IIT BHU"
 sitemap: false
 permalink: /
 ---
