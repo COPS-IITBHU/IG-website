@@ -1,26 +1,26 @@
 - title: Home
   url: /
 - title: People
-  url: /people
+  url: people
 - title: Projects
-  url: /projects
+  url: projects
 - title: Blog
-  url: /blog
+  url: blog
 - title: Resources
   url: /
   sublinks:
       - title: AI Roadmap
-        url: /roadmap
+        url: roadmap
       - title: AI Exercise
-        url: /excercise
+        url: excercise
       - title: Other Links
-        url: /other
+        url: other
 - title: Publication
-  url: /publications
+  url: publications
 - title: Activities
   url: /
   sublinks:
       - title: ML Talks
-        url: /mltalks
+        url: mltalks
       - title: "RL and multiagent systems: paper reading group"
-        url: /paperread
+        url: paperread
