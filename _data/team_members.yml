@@ -18,6 +18,13 @@
   education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
   education3: B.S. East China University of Science and Technology
 
+- name: Aditya Kumar
+  photo: AdityaKumar.jpg
+  info: Natural Language Processing
+  email: aditya.kumar.cer19@iitbhu.ac.in
+  number_educ: 1
+  education1: former Intern at rephrase.ai
+
 - name: Koen M Bastiaans
   photo: Koen.jpg
   info: Postdoc, started Sep 2015
