@@ -18,13 +18,13 @@
   education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
   education3: B.S. East China University of Science and Technology
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Yash Sahijwani
+  photo: YashSahijwani.jpg
+  info: Computer Vision, Reinforcement Learning
+  email: yash.sahijwani.ece19@itbhu.ac.in
   number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
+  education1: Currently working on Computer Vision
+  education2: Incoming intern @ Wells Fargo
 
 - name: Jiasen Niu
   photo: Jiasen.png
