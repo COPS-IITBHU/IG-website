@@ -1,4 +1,4 @@
-I"�t<h1 id="publications">Publications</h1>
+I"tu<h1 id="publications">Publications</h1>
 
 <h2 id="group-highlights">Group highlights</h2>
 
@@ -9,7 +9,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Measuring local moiré lattice heterogeneity of twisted bilayer graphene</pubtit>
-      <p><img src="/images/pubpic/TBG_SL.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/TBG_SL.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.</p>
       <p><em>T Benschop <em>, TA de Jong</em>, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan</em></p>
       <p><strong><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153">Phys. Rev. Research 3, 013153</a></strong></p>
@@ -21,7 +21,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc</pubtit>
-      <p><img src="/images/pubpic/TiNHigh.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/TiNHigh.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.</p>
       <p><em>KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan</em></p>
       <p><strong><a href="https://arxiv.org/abs/2101.08535">arXiv:2101.08535 (2021)</a></strong></p>
@@ -37,7 +37,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45</pubtit>
-      <p><img src="/images/pubpic/YSR.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/YSR.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.</p>
       <p><em>D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan</em></p>
       <p><strong><a href="https://www.nature.com/articles/s41467-020-20529-x">Nature Communications 12, 298 (2021)</a></strong></p>
@@ -49,7 +49,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Observation of flat bands in twisted bilayer graphene</pubtit>
-      <p><img src="/images/pubpic/TBG_ARPES.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/TBG_ARPES.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.</p>
       <p><em>S Lisi<em>, X Lu</em>, T Benschop<em>, TA de Jong</em>, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger</em></p>
       <p><strong><a href="https://www.nature.com/articles/s41567-020-01041-x">Nature Physics 17, 198 (2020)</a></strong></p>
@@ -65,7 +65,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4</pubtit>
-      <p><img src="/images/pubpic/Direct.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Direct.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href="https://dqmp.unige.ch/baumberger/">Baumberger</a>, <a href="https://www.london-nano.com/our-people/our-people-bios/robin-perry">Perry</a>,  and <a href="https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie">Mackenzie</a>.</p>
       <p><em>I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan</em></p>
       <p><strong><a href="https://www.nature.com/articles/s41535-020-00292-4">npj Quantum Materials 5, 91 (2020)</a></strong></p>
@@ -77,7 +77,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>A strongly inhomogeneous superfluid in an iron-based superconductor</pubtit>
-      <p><img src="/images/pubpic/STS_news.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/STS_news.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.</p>
       <p><em>D Cho* &amp; KM Bastiaans* &amp; D Chatzopoulos*, GD Gu, MP Allan</em></p>
       <p><strong><a href="https://www.nature.com/articles/s41586-019-1408-8">Nature 571, 541 (2019)</a></strong></p>
@@ -93,7 +93,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy</pubtit>
-      <p><img src="/images/pubpic/SmartPub.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/SmartPub.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.</p>
       <p><em>M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan</em></p>
       <p><strong><a href="https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf">Nanotechnology 30, 335702 (2019)</a></strong></p>
@@ -105,7 +105,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Imaging doubled shot noise in a Josephson scanning tunneling microscope</pubtit>
-      <p><img src="/images/pubpic/PbSpub.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/PbSpub.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.</p>
       <p><em>KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan</em></p>
       <p><strong><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506">Phys. Rev. B 100, 104506 (2019)</a></strong></p>
@@ -121,7 +121,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging</pubtit>
-      <p><img src="/images/pubpic/DomePub.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/DomePub.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.</p>
       <p><em>I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan</em></p>
       <p><strong><a href="https://aip.scitation.org/doi/10.1063/1.5064442">Rev. Sci. Instrum. 89, 123705 (2018)</a></strong></p>
@@ -133,7 +133,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Charge trapping and super-Poissonian noise centres in a cuprate superconductor</pubtit>
-      <p><img src="/images/pubpic/Pub_BCl.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_BCl.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.</p>
       <p><em>KM Bastiaans* &amp; D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan</em></p>
       <p><strong><a href="https://www.nature.com/articles/s41567-018-0300-z">Nature Physics 14, 1183 (2018)</a></strong></p>
@@ -149,7 +149,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Creating better superconductors by periodic nanopatterning</pubtit>
-      <p><img src="/images/pubpic/SCAUweb.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/SCAUweb.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques – designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.</p>
       <p><em>MP Allan, MH Fischer, O Ostojic, A Andringa</em></p>
       <p><strong><a href="https://scipost.org/SciPostPhys.3.2.010/pdf">SciPost Phys. 3, 010 (2017)</a></strong></p>
@@ -161,7 +161,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Universality of pseudo gap and emergent order in lightly doped Mott insulators</pubtit>
-      <p><img src="/images/pubpic/Mott_phase_sep.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Mott_phase_sep.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.</p>
       <p><em>I. Battisti* &amp; K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan</em></p>
       <p><strong><a href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html">Nature Physics 13, 21 (2017)</a></strong></p>
@@ -177,7 +177,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors</pubtit>
-      <p><img src="/images/pubpic/Pub_FP.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_FP.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.</p>
       <p><em>MP Allan* &amp; Kyungmin Lee* &amp; AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim</em></p>
       <p><strong><a href="http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html">Nature Physics 11, 177 (2015)</a></strong></p>
@@ -189,7 +189,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Imaging Cooper pairing of heavy fermions in CeCoIn5</pubtit>
-      <p><img src="/images/pubpic/Pub_CeCoIn5.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_CeCoIn5.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.</p>
       <p><em>MP Allan* &amp; F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis</em></p>
       <p><strong><a href="http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html">Nature Physics 9, 468 (2013)</a></strong></p>
@@ -205,7 +205,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Formation of heavy d-electron quasiparticles in Sr3Ru2O7</pubtit>
-      <p><img src="/images/pubpic/Pub_327.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_327.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.</p>
       <p><em>MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger</em></p>
       <p><strong><a href="http://iopscience.iop.org/1367-2630/15/6/063029">New Journal of Physics 15, 063029 (2013)</a></strong></p>
@@ -217,7 +217,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2</pubtit>
-      <p><img src="/images/pubpic/Pub_nemat2b.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_nemat2b.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.</p>
       <p><em>MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis</em></p>
       <p><strong><a href="http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html">Nature Physics 9, 220 (2013)</a></strong></p>
@@ -233,7 +233,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs</pubtit>
-      <p><img src="/images/pubpic/Pub_LiFeAs.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_LiFeAs.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.</p>
       <p><em>MP Allan⋆ &amp; AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang</em></p>
       <p><strong><a href="http://www.sciencemag.org/content/336/6081/563">Science 336, 563 (2012)</a></strong></p>
@@ -245,7 +245,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2</pubtit>
-      <p><img src="/images/pubpic/Pub_nemat1.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_nemat1.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.</p>
       <p><em>T-M Chuang* &amp; MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis</em></p>
       <p><strong><a href="http://www.sciencemag.org/content/327/5962/181">Science 327, 181 (2010)</a></strong></p>
@@ -261,7 +261,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions</pubtit>
-      <p><img src="/images/pubpic/Pub_hBN.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="/IG-website//images/pubpic/Pub_hBN.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.</p>
       <p><em>MP Allan, S Berner, M Corso, T Greber, J Osterwalder</em></p>
       <p><strong><a href="http://www.nanoscalereslett.com/content/2/2/94">Nanoscale Research Letters 2, 94 (2007)</a></strong></p>
