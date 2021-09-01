@@ -1,4 +1,4 @@
-I"=+<h1 id="group-members">Group Members</h1>
+I"ì/<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="/IG-website//vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -61,16 +61,15 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/IG-website//images/teampic/Koen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Koen M Bastiaans</h4>
-    <p><i>Postdoc, started Sep 2015 <!--<br>email: <Bastiaans@Physics.LeidenUniv.nl></i> --></i></p>
+    <p><img src="/IG-website//images/teampic/SomnathKumar.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Somnath Sendhil Kumar</h4>
+    <p><i>Reinforcement Learning and Computer vision <!--<br>email: <somnath.sendhilk.eee19@itbhu.ac.in></i> --></i></p>
     <ul style="overflow: hidden">
 
   
-
+  <li>  </li>
   
-  <li> PhD with Milan Allan, Leiden University </li>
-  <li> Master Leiden University with Milan Allan </li>
+
   
 
   
@@ -81,6 +80,76 @@
 
   </ul>
   </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/IG-website//images/teampic/AdityaKumar.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Aditya Kumar</h4>
+    <p><i>Natural Language Processing <!--<br>email: <aditya.kumar.cer19@iitbhu.ac.in></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> former Intern at rephrase.ai </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/IG-website//images/teampic/YashSahijwani.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Yash Sahijwani</h4>
+    <p><i>Computer Vision, Reinforcement Learning <!--<br>email: <yash.sahijwani.ece19@itbhu.ac.in></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Currently working on Computer Vision </li>
+  <li> Incoming intern @ Wells Fargo </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/IG-website//images/teampic/Koen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Koen M Bastiaans</h4>
+    <p><i>Postdoc, started Sep 2015 <!--<br>email: <Bastiaans@Physics.LeidenUniv.nl></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/Jiasen.png" class="img-responsive" width="25%" style="float: left" /></p>
@@ -104,10 +173,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/Jinwon.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jinwon Lee</h4>
@@ -129,6 +194,10 @@
 
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/Damianos.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -152,10 +221,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/website_pic_willem.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Willem Tromp</h4>
@@ -176,6 +241,10 @@
 
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/tjeruk.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -199,10 +268,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/DSC_1032.JPG" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Kees van Oosten</h4>
@@ -225,6 +290,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/hugo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Hugo van Bohemen</h4>
@@ -245,10 +314,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/IG-website//images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
