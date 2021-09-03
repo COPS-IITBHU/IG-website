@@ -6,7 +6,8 @@ sitemap: false
 permalink: /paperread
 ---
 
-# REINFORCEMENT LEARNING:
+# RL and Multiagent Systems: Paper Reading Group:
+
 
 **Multi-Agent Reinforcement Learning (MARL)** is a subfield of reinforcement learning that is becoming increasingly relevant and has been blowing my mind. Multi-agent reinforcement learning studies how multiple agents interact in a common environment. That is, when these agents interact with the environment and one another, can we observe them collaborate, coordinate, compete, or collectively learn to accomplish a particular task.
 <br>

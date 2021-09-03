@@ -1,0 +1,330 @@
+I"DA<h1 align="center"> Intelligence Group, COPS IIT(BHU) </h1>
+<h2 align="center"> AI exercise </h2>
+<p align="center"> April 2021 </p>
+
+<h1 id="1-about">1. About</h1>
+
+<p>This can be considered the official selection test for the next batch of the Machine Learning group, renamed as the <strong>Intelligence Group or (IG), COPS IIT(BHU)</strong>.</p>
+
+<p>Github Link for the <a href="https://github.com/COPS-IITBHU/AI-exercise">AI-Exercise</a>.</p>
+
+<ol>
+  <li>Consider machine learning as a tool. If you know how to use it, but have never used it, what’s the point? This Exercise forces you to use ML to solve problems.</li>
+  <li>This Exercise will not be graded in any sense. But we will get to know you personally depending on the <strong>technical questions you ask in chat</strong>, and ofcourse the <strong>quality of work</strong> you present at the end. This will help us in evaluating your interest and knowledge.</li>
+  <li>After completing the exercise, you will have a clear understanding of the discussions we have in our group, and will be able to contribute too.</li>
+  <li>The ideas that you come up with while solving the Exercise are <strong>yours!</strong> We won’t take credit for it. You can develop that idea into a well drafted <strong>project or publication</strong> if you want.</li>
+  <li>The Exercise is long and has a very comfortable deadline. So make sure you are having fun.</li>
+  <li>If you have any doubts first try to Google it, if still not clear you can contact us personally or in the group. See the last section of this exercise for details.</li>
+  <li>The deadline for the submission is <strong>30th April 2021</strong>.</li>
+</ol>
+
+<p><br /></p>
+
+<h1 id="2-pre-requisites">2. Pre-requisites</h1>
+
+<p>All the resources required for completing the exercise are given in the <a href="https://github.com/COPS-IITBHU/AI-roadmap">AI-roadmap</a>. The exercise is made assuming that you have at least completed the Stanford courses on NLP, RL, and CV (<a href="https://github.com/COPS-IITBHU/AI-roadmap#211-stanfords-courses-for-nlp-cv-rl">here</a>).</p>
+
+<p><br /></p>
+
+<h1 id="3-exercise">3. Exercise</h1>
+
+<p>The Exercises are structured such that you can either solve <strong>any two</strong> out of the first seven questions <strong>OR</strong> do the <a href="#38-paper-implementation">last question</a> individually. Keep in mind that solving the last question means replicating state-of-the-art results of a paper.</p>
+
+<p><br /></p>
+
+<h2 id="31-numpy-neural-network-topic-general">3.1 Numpy neural network (topic: general)</h2>
+
+<p>In this question, you will create a neural net in NumPy which either computes the xor or the xnor of two one bit binary numbers depending on the value of a third input. If the third input is 0, the neural net should compute the xor of the two numbers and if the third input is 1, the neural net should compute the xnor of the two numbers.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">X1 (first bit)</th>
+      <th style="text-align: center">X2 (2nd bit)</th>
+      <th style="text-align: center">X3 (task)</th>
+      <th style="text-align: center">Y(Result)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>Initialize the network with random parameters. Then, use the above table as the training dataset for your neural network.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>Goal:</strong> To have a clear understanding of the matrix operations involved in backpropagation. <br /> <strong>Prerequisites:</strong> Neural Networks, back propagation, matrix calculus, numpy <br /> <strong>Instructions for submission:</strong> All submissions to be made as ready-to-run jupyter notebooks, which are directly executable in google colab.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="32-optimizer-study-topic-general">3.2 Optimizer study (topic: general)</h2>
+
+<p>In this question you will have to study different optimizers (SGD, Adam, Rectified Adam, Adagrad, RMSProp, etc). Create and train a simple neural network (keep your network complex enough to see the difference in optimizer performance e.g. Resnets) and study the convergence of this network using different optimization methods. Write your optimizers from scratch and try to mimic the purpose for which they were created. The idea is to study different optimization methods. Don’t limit yourself to just the optimizers given above, you may also explore different optimization methods given in the <a href="http://www.deeplearningbook.org/">http://www.deeplearningbook.org/</a>.</p>
+
+<p>Finally, prepare a small 1-3 page report of your findings, with diagrams</p>
+
+<p><strong>Note:</strong> If done properly, this work could form an excellent project or the building blocks of a publication.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>Goal:</strong> To have a clear understanding of the types of optimizers used in neural networks, and their strengths and weaknesses. <br /> <strong>Prerequisites:</strong> Gradient descent, Backpropagation, types of optimizers. <br /> <strong>Instructions:</strong> All code needs to be either submitted as a zip file, containing clearly named .py files, or as a single jupyter notebook directly executable on google colab</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="33-word-embeddings-topic-nlp">3.3 Word Embeddings (topic: NLP)</h2>
+
+<p>Download the Large Movie Review Dataset from Stanford [<a href="http://ai.stanford.edu/~amaas/data/sentiment/">Link</a>]. Extract all the sentences out of the dataset.</p>
+
+<ol>
+  <li>Now make a model which will learn the word embeddings of all the words present in this dataset. There is no limitation as to which model you use for developing the embeddings. You have to make the model in Numpy(suggested) or pytorch. Most commonly used are word2vec, glove and fastText. Keep in mind that you have to write down and train the model. Using an api which directly returns the embedding, does not count as completing the question.</li>
+  <li>Optional task: Once done with static word embeddings, you can proceed to make a model that returns contextualised word embeddings. Again you can build any model of your choice. No restrictions on using static embeddings from your previous model but pretrained weights from the internet should not be used. Common approaches are elmo and CoVe.</li>
+</ol>
+
+<p>After learning the word embeddings (word vectors) visualise the embeddings using manifold learning algorithms. (Hint:t-SNE) You can directly use the algorithm by importing from sklearn or any other library for the visualization task.</p>
+
+<p>You can learn more about word embeddings from Stanford’s 224n [<a href="http://web.stanford.edu/class/cs224n/syllabus.html">Link</a>] course or from the skymind.ai word2vec tutorial.</p>
+
+<p><br /></p>
+
+<h2 id="34-image-generation-topic-cv">3.4 Image Generation (topic: CV)</h2>
+
+<p>Train a generative adversarial network to generate images using the CIFAR10 dataset. There is no limitation to the kind of GAN you train. Report two results: One should be a baseline for your second result, and the second should be an optimisation or training technique which helped in stabilising your training of the GAN and trained it better.</p>
+
+<p><br /></p>
+
+<h2 id="35-semantic-segmentation-topic-cv">3.5 Semantic Segmentation (topic: CV)</h2>
+
+<p>Semantic Segmentation is widely used from self driving cars to robot manipulations. The main baseline architecture used for doing so is U-Nets. We want you to train a UNet for autonomous cars using the Cityscapes dataset <a href="https://www.kaggle.com/dansbecker/cityscapes-image-pairs">[link]</a>. The following link also accompanies many starter codes for you to get started. We expect you to apply the vanilla UNet(But a better architecture is always welcome) and submit a Report describing the insights you gained about the Trained UNet. This should at least contain the following 2 points.</p>
+
+<ul>
+  <li>Activations due to images in the Step Down network using HeatMaps <a href="https://keras.io/examples/vision/grad_cam/">[reference]</a></li>
+  <li>t-SNE analysis of the latent space for different classes and for the objects in different regions of the image.</li>
+</ul>
+
+<p>You may lower the number of classes than given in the dataset (minimum is 3 classes, vehicles are compulsory).</p>
+
+<p><br /></p>
+
+<h2 id="36-reinforce-topic-rl">3.6 REINFORCE (topic: RL)</h2>
+
+<p>The figure below is a popular baseline reinforcement learning algorithm. It uses the policy gradient step to come up with an optimal policy. In almost any reinforcement learning course, you will surely find the following algorithm mentioned.</p>
+
+<p><img style="display: block; margin: auto;" src="/IG-website//images/rlimage.png" /></p>
+
+<p>The goal of this task is to make sure you have a clear understanding of the algorithm, which will form the basis of your understanding of policy gradient approaches in RL.</p>
+
+<p>Hence, we would like you to implement this algorithm (shouldn’t take longer than 100 lines if you use Pytorch), and test it out on the following environments (all are discrete action space):</p>
+
+<ol>
+  <li>Mountain Car: <a href="https://gym.openai.com/envs/MountainCar-v0/">https://gym.openai.com/envs/MountainCar-v0/</a></li>
+  <li>CartPole: <a href="https://gym.openai.com/envs/CartPole-v0/">https://gym.openai.com/envs/CartPole-v0/</a></li>
+  <li>Acrobot: <a href="https://gym.openai.com/envs/Acrobot-v1/">https://gym.openai.com/envs/Acrobot-v1/</a></li>
+  <li>LunarLander: <a href="https://gym.openai.com/envs/LunarLander-v2/">https://gym.openai.com/envs/LunarLander-v2/</a></li>
+  <li>Pong: <a href="https://gym.openai.com/envs/Pong-v0/">https://gym.openai.com/envs/Pong-v0/</a> (optional)</li>
+  <li>Grid world: <a href="https://github.com/maximecb/gym-minigrid">https://github.com/maximecb/gym-minigrid</a> (optional)</li>
+</ol>
+
+<p><br /></p>
+
+<h2 id="37-q-learning-topic-rl">3.7 Q learning (topic: RL)</h2>
+<p><br /></p>
+
+<ol>
+  <li>Implement a reinforcement learning algorithm, say DQN (though you can choose any other algorithm as well) for multiple agents in Petting Zoo’s multi-agent Simple Adversary environment <a href="https://www.pettingzoo.ml/mpe/simple_adversary">[Link]</a>. Note that in this problem you are expected to simultaneously train multiple agents. Report two results: First, the behaviour of the agents and what change in hyperparameters led to new behaviours, and second, the reason why you think your training converged or diverged. You can try increasing the number of agents, to find any interesting variations of the algorithm’s performance.</li>
+  <li>Finally, make a report (2-3 pages) explaining your results, (or just illustrating your observations) with plots from your experiment.</li>
+</ol>
+
+<p><br /></p>
+
+<h2 id="38-paper-implementation">3.8 Paper Implementation</h2>
+
+<p>If you’re attempting this question your task is to implement a deep learning paper. Select any one of the papers published in NeurIPS 2020. First read the abstract and give a rough reading of the paper you have chosen. At this point inform us that you’re attempting to implement the paper and tell us about the paper chosen. Once you get an approval from us you can go ahead and give a thorough reading of the paper and try implementing the paper using pytorch.</p>
+
+<p>We are not expecting you to write a very clean implementation but will be testing you on your understanding of the paper. Your code should be able to replicate results described in the paper.</p>
+
+<p>Remember this task has not been designed for beginners but anyone is welcome to give it a try.</p>
+
+<p><br /></p>
+
+<h1 id="4-timeline">4. Timeline</h1>
+
+<p>It is preferred if you start working on the tasks along with auditing the AI-roadmap. Here’s a rough timeline we’d like you to follow:</p>
+
+<h3 id="week-1">Week 1:</h3>
+
+<p>Read the exercise thoroughly, and start auditing either the NLP (CS224n) or the CV (CS231n) stanford course. This will be easier to follow than the RL courses. You can also go through the other resources in the AI-roadmap.</p>
+
+<h3 id="week-2">Week 2:</h3>
+
+<p>By now, you should have decided the 2 tasks of your choice or the paper you would like to implement. By the end of week 2, we expect that you should have completed at least three-fourths of the NLP/CV stanford course. Hence, you can comfortably begin working on the tasks.</p>
+
+<h3 id="week-3">Week 3:</h3>
+
+<p>By the end of this week, we expect a submission for one of the tasks. (if you are implementing the paper, you should have read the paper completely, and should have a rough implementation ready).</p>
+
+<h3 id="week-4">Week 4:</h3>
+
+<p>Try to wrap up the 2nd task, or the paper implementation. Get your reports ready.</p>
+
+<p><br /></p>
+
+<h1 id="5-submission">5. Submission</h1>
+
+<p>All tasks require submissions in the form of code or reports. We will provide clear instructions on how to submit towards the end of the month. However, we encourage you to <strong>keep us informed of your progress</strong>, especially when you have completed a task.</p>
+
+<p><br /></p>
+
+<h1 id="6-contact-info">6. Contact Info</h1>
+
+<p>If you have any questions/suggestions or need guidance on anything, make sure to raise a question in the group. We have also provided our whatsapp numbers for specific doubts regarding the exercise. For technical doubts, just make sure that you have googled your questions before contacting us personally.</p>
+
+<p><br /></p>
+
+<p><strong>Team -</strong></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(NLP) <strong>Aditya:</strong> ::</td>
+      <td>:: 9783041889 ::</td>
+      <td>:: (discord: raven#6436)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(NLP) <strong>Shravan:</strong></td>
+      <td>7975500284</td>
+      <td>(discord: BAJUKA#5562)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(CV) <strong>Saaswath:</strong></td>
+      <td>7094172606 (discord: 8mann#5607)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(RL, CV, NLP) <strong>Yash:</strong></td>
+      <td>7303260400 (discord: yashsahijwani#3996)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(RL, CV) <strong>Ayush:</strong></td>
+      <td>8777878819</td>
+      <td>(discord: aksayushx#7751)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(RL, CV) <strong>Somnath</strong></td>
+      <td>7829287795</td>
+      <td>(discord: Hex-Plex0xff#3408)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>(RL, CV) <strong>Vikhyath:</strong></td>
+      <td>8105975839</td>
+      <td>(discord: RotInHell08#6764)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>RL, CV) <strong>Nishant</strong></td>
+      <td>7665179120</td>
+      <td>(discord: nishantkr18#1847)</td>
+    </tr>
+  </tbody>
+</table>
+:ET
