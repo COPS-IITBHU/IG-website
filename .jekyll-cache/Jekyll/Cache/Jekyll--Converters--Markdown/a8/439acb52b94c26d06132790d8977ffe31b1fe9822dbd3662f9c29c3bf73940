@@ -1,0 +1,24 @@
+I"ã<h1 id="ml-talks">ML TALKS</h1>
+
+<p>As a multidisciplinary group we also try to be inline with the existing research or cool techniques going around the globe. For this we conduct Regular talks in which any member of the Group will present any idea/approach which he/she found interesting. Additionally in these talks our aim is to increase the knowledge and interest domains of the members.</p>
+
+<p>For getting the information of past ML Talks. 
+Check this <a href="https://github.com/COPS-IITBHU/ML-talks">Repository</a>.</p>
+
+<h4 id="week1-">Week1 :</h4>
+<ul>
+  <li>Tensorflow in multi-GPU environments</li>
+  <li>Parallel Data Processing with <a href="https://github.com/nalepae/pandarallel">Pandarallel</a></li>
+  <li>Multiprocessing in Python</li>
+</ul>
+
+<h4 id="week2-">Week2 :</h4>
+<ul>
+  <li>NLP with GPT -3 based model for code creation</li>
+</ul>
+
+<h4 id="week3-">Week3 :</h4>
+<ul>
+  <li>Distributed RL with <a href="https://docs.ray.io/en/latest/rllib.html">Ray RLlib</a></li>
+</ul>
+:ET
