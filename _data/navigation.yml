@@ -15,8 +15,6 @@
         url: excercise
       - title: Other Links
         url: other
-- title: Publication
-  url: publications
 - title: Activities
   url: /
   sublinks:

@@ -6,37 +6,61 @@ sitemap: false
 permalink: /projects
 ---
 
-# Open positions
+# Projects and Publications
 
-**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/IG-website/downloads/h2020-wp1820-msca_en.pdf)).**
+## Group highlights
+
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+
+{% assign number_printed = 0 %}
+{% for publi in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
 
 
+## Patents
+<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
+<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
-We are always looking for new group members with passion, talent, and grit!
+## Full List of publications
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+{% for publi in site.data.publist %}
 
-### Past open positions
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf), 
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+{% endfor %}
