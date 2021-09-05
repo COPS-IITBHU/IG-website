@@ -6,7 +6,7 @@ sitemap: false
 permalink: /mltalks
 ---
 
-# ML TALKS
+<h1 align="center"> ML TALKS </h1>
 
 As a multidisciplinary group we also try to be inline with the existing research or cool techniques going around the globe. For this we conduct Regular talks in which any member of the Group will present any idea/approach which he/she found interesting. Additionally in these talks our aim is to increase the knowledge and interest domains of the members.
 
