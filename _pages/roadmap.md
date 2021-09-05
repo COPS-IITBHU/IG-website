@@ -6,10 +6,14 @@ sitemap: false
 permalink: /roadmap
 ---
 
-# AI-roadmap
-A beginner's roadmap to getting started in Machine Learning, by COPS IIT(BHU).
+<h1 align="center"> Intelligence Group, COPS IIT(BHU) </h1>
+<h2 align="center"> AI-Roadmap </h2>
+<p align="center"> A beginner's roadmap to getting started in Machine Learning, by COPS IIT(BHU) </p>
+<p align="center"> 
+Github Link for the [AI-Roadmap](https://cops-iitbhu.github.io/AI-roadmap/) 
+</p>
 
-Github Link for the [AI-Roadmap](https://cops-iitbhu.github.io/AI-roadmap/).
+
 
 ## Motivation
 If you do a quick google search: "How can I learn Machine Learning", you will receive a lot of content. Most of this content will probably not be well suited for you, possibly because such content is mostly created for a large audience. (so you may find it boring/too slow, and sometimes misleading)
