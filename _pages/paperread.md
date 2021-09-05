@@ -26,7 +26,17 @@ Each meeting has a main topic of discussion. a topic which rotates among the par
 All participants are supposed to read the selected paper carefully, writing down comments and questions they would like to discuss in the meeting. This helps us look for opportunities to improve in the paper, and pursue them as a research project.
 
 The Reading group  is open to motivated students. 
-If you are interested in participating, contact Nishant Kumar.
+If you are interested in participating, contact [Nishant Kumar](mailto:nishantkr.ece18@itbhu.ac.in).
+
+## Previous Sessions
+### MultiAgent Reading Session
+
+We are very thankful to the OpenSource Community Specially, [Lantao Yu](https://github.com/LantaoYu/) and Co. for providing a wonderful starting ground for searching papers in Multi Agent Reinforcement Learning. You can check it out Here [***MARL-Papers***](https://github.com/LantaoYu/MARL-Papers)
+- **Session 1** : *Basics of MultiAgent RL* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[presentation]]({{ site.url }}{{ site.baseurl }}/downloads/RLRG_session_1.pdf)  [[papers]](https://github.com/LantaoYu/MARL-Papers#review-papers)
+- **Session 2** : *Communication in MARL systems* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[presentation]]({{ site.url }}{{ site.baseurl }}/downloads/RLRG_session_2.pdf) [[papers]](https://github.com/LantaoYu/MARL-Papers#learning-to-communicate)
+- **Session 3** : *Transfer Learning in MARL* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[presentation]]({{ site.url }}{{ site.baseurl }}/downloads/RLRG_session_3.pdf) [[papers]](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
+- **Session 4** : *Framework in MARL* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[presentation]]({{ site.url }}{{ site.baseurl }}/downloads/RLRG_session_4.pdf) [[papers]](https://github.com/LantaoYu/MARL-Papers#framework)
+
 
 The members of the COPS IG group are actively working in the multiple fields and some of the domains of expertise are :
 * **Multi-agent, Hierarchies, communication**
