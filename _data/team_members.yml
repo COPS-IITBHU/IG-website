@@ -1,5 +1,5 @@
 - name: Nishant Kumar
-  photo: SomnathKumar.jpg
+  photo: NishantKumar.jpg
   info: Reinforcement Learning and Communication in Multiagent systems.
   role:  Head - 2018
   email: nishantkr.ece18@iitbhu.ac.in
@@ -14,7 +14,7 @@
   role:  Mentor - 2019
   email: somnath.sendhilk.eee19@itbhu.ac.in
   number_educ: 1
-  eduacation1: Currently Internee at Stochlab, IISc.
+  education1: Currently Internee at Stochlab, IISc.
 
 - name: Aditya Kumar
   photo: AdityaKumar.jpg
@@ -65,10 +65,14 @@
   role:  Mentor - 2019
   info: Reinforcement Learning, Computer Vision
   email: ayush.kumarshaw.ece19@iitbhu.ac.in
+  number_educ: 1
+  education1: Upcoming Data Scientist At Microsoft Research
   
 - name: Vikhyath Venkatraman 
   photo: VikhyathVenkatraman.png
   role:  Mentor - 2019
   info: Computer Vision, Reinforcement Learning
   email: vikhyath.pvenkatraman.ece19@iitbhu.ac.in
+  number_educ: 1
+  education1: Upcoming Data Scientist At Microsoft Research
 
