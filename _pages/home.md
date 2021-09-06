@@ -9,11 +9,9 @@ permalink: /
 
 <style>
 figure {
-     margin-bottom:30px;
-     margin-top:30px;
-     margin-left:55px;
-}
-     
+    margin-bottom:30px;
+     margin-top:30px
+    
 </style>
 
 
@@ -23,7 +21,7 @@ As for the budding young members, we bid them to delve deep into the field and d
 
 
  <figure>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/COPS_LOGO.jpg" style="width:90%">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/COPS_LOGO.jpg" style="width: 100%">
  </figure>
 
 
