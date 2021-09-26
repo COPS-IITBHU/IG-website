@@ -8,7 +8,9 @@ permalink: /excercise
 
 <h1 align="center"> Intelligence Group, COPS IIT(BHU) </h1>
 <h2 align="center"> AI exercise </h2>
-<p align="center"> April 2021 </p>
+<h4 align="center"> April 2021 </h4>
+
+<br>
 
 # 1. About
 
@@ -29,11 +31,15 @@ Github Link for the [AI-Exercise](https://github.com/COPS-IITBHU/AI-exercise).
 
 #  2. Pre-requisites
 
+<br>
+
 All the resources required for completing the exercise are given in the [AI-roadmap](https://github.com/COPS-IITBHU/AI-roadmap). The exercise is made assuming that you have at least completed the Stanford courses on NLP, RL, and CV ([here](https://github.com/COPS-IITBHU/AI-roadmap#211-stanfords-courses-for-nlp-cv-rl)).
 
 <br>
 
 # 3. Exercise
+
+<br>
 
 The Exercises are structured such that you can either solve **any two** out of the first seven questions **OR** do the [last question](#38-paper-implementation) individually. Keep in mind that solving the last question means replicating state-of-the-art results of a paper.
 
@@ -159,6 +165,8 @@ Remember this task has not been designed for beginners but anyone is welcome to 
 
 # 4. Timeline
 
+<br>
+
 It is preferred if you start working on the tasks along with auditing the AI-roadmap. Here’s a rough timeline we’d like you to follow:
 
 
@@ -197,6 +205,8 @@ If you have any questions/suggestions or need guidance on anything, make sure to
 
 # Team -
 
+<br>
+
 (NLP) **Aditya:** 9783041889 (discord: raven#6436)
 
 (NLP) **Shravan:** 7975500284 (discord: BAJUKA#5562)
@@ -212,3 +222,7 @@ If you have any questions/suggestions or need guidance on anything, make sure to
 (RL, CV) **Vikhyath:** 8105975839 (discord: RotInHell08#6764)
 
 (RL, CV) **Nishant** 7665179120 (discord: nishantkr18#1847)
+
+<br>
+<br>
+<br>

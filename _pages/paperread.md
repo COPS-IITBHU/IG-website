@@ -8,12 +8,15 @@ permalink: /paperread
 
 <h1 align="center"> RL and Multiagent Systems: Paper Reading Group</h1>
 
+<br>
 
 **Multi-Agent Reinforcement Learning (MARL)** is a subfield of reinforcement learning that is becoming increasingly relevant and has been blowing my mind. Multi-agent reinforcement learning studies how multiple agents interact in a common environment. That is, when these agents interact with the environment and one another, can we observe them collaborate, coordinate, compete, or collectively learn to accomplish a particular task.
+
 <br>
 
 <div align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/kopoLzvh5jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe></div>
 <br>
+
 We are a group of Reinforcement learning Enthusiasts, dwelling into the realms of Multi Agent Reinforcement Learning. 
 We have weekly / bi weekly sessions of Paper Reading where our main two goals are: 
 
@@ -44,4 +47,11 @@ The members of the COPS IG group are actively working in the multiple fields and
 * **Continual Learning**
 * **Inverse RL,  Hierarchical** 
 
+
+<br>
+<br>
+
 So we would be happy to collaborate, and have interesting talks with you.
+
+<br>
+<br>

@@ -2,10 +2,6 @@
   url: /
 - title: People
   url: people
-- title: Projects
-  url: projects
-- title: Blog
-  url: blog
 - title: Resources
   url: /
   sublinks:
@@ -13,8 +9,6 @@
         url: roadmap
       - title: AI Exercise
         url: excercise
-      - title: Other Links
-        url: other
 - title: Activities
   url: /
   sublinks:
