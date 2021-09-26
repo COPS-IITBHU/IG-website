@@ -1,0 +1,18 @@
+- name: Shravan Nayak
+  photo: ShravanNayak.jpeg
+  info: Neural Machine Translation and Dubbing
+  website: <a href="https://bajuka.github.io">https://bajuka.github.io/</a>
+  email: pshravan.nayak.ece17@itbhu.ac.in
+  number_educ: 2
+  education1: Software Development Engineer at Microsoft IDC
+  education2: Research intern at Language Technology Lab, University of Hamburg
+
+- name: Nishant Kumar
+  photo: NishantKumar.jpg
+  info: Reinforcement Learning and Communication in Multiagent systems.
+  website: <a href="https://nishantkr18.github.io/">https://nishantkr18.github.io/</a>
+  email: nishantkr.ece18@iitbhu.ac.in
+  number_educ: 2
+  education1: Reinforcement Learning open source (RLOS) Fest Developer 2021, by Microsoft - Worked on Mulithreading Parsers for VW
+  education2: Remote Research Intern At Univeristy Of Alberta - Worked on Multiagent communication
+  

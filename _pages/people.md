@@ -6,16 +6,20 @@ sitemap: false
 permalink: /people
 ---
 
-# Group Members
+# People - 
 
  <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 
 <!-- Jump to [staff](#staff)[master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
+<br>
 
-## Staff
+### Founding Members / Alumni -
+
+<br>
+
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -80,12 +84,14 @@ permalink: /people
 </div>
 {% endif %}
 
+<br>
 
+### Leads -
 
+<br>
 
-<!-- ## Master and Bachelor Students -->
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.leads %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -94,8 +100,13 @@ permalink: /people
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email : {{ member.email }}  </i>
+  <br>
+  {% if member.website %}
+ <i> website : {{member.website}} </i>
+  {% endif %}  
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -137,10 +148,12 @@ permalink: /people
 {% endif %}
 
 
-<!-- ## Alumni -->
+### Mentors and Members -
+
+<br>
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -151,7 +164,11 @@ permalink: /people
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.info }} <br>email : {{ member.email }}  </i>
+  <br>
+  {% if member.website %}
+ <i> website : {{member.website}} </i>
+  {% endif %}  
   <ul style="overflow: hidden">
 
   </ul>
