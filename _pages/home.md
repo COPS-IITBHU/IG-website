@@ -26,9 +26,6 @@ figure {
 
   As for the budding young members, we bid them to delve deep into the field and develop real-world applications of their learnings.
 
-
- 
-
   <br>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
