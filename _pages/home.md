@@ -9,29 +9,27 @@ permalink: /
 
 <style>
 figure {
-    margin-bottom:30px;
-     margin-top:30px
-    
+     margin-bottom:30px;
+     margin-top:30px;
+     margin-left:65px;
+}
 </style>
 
 
-We are the “Intelligence Group” at [Club Of Programmers, IIT BHU](https://www.copsiitbhu.co.in/). We aim at exploring all things ML and strive to foster the research culture in our college. The members of the club work on various projects in their respective domains of interest and have multiple publications in their names. 
+  We are the “Intelligence Group” at [Club Of Programmers, IIT BHU](https://www.copsiitbhu.co.in/). We aim at exploring all things ML and strive to foster the research culture in our college. The members of the club work on various projects in their respective domains of interest and have multiple publications in their names. 
 
-<br>
+  <br>
 
-We promote teamwork and encourage freshers to collaborate on projects with the guidance of senior mentors. We regularly conduct workshops and talks for students to learn and know of new and exciting approaches in the field of ML. To vitalize the research community among our students, we conduct meticulous paper reading sessions to discuss research papers with an aim to pursue research projects.
+  We promote teamwork and encourage freshers to collaborate on projects with the guidance of senior mentors. We regularly conduct workshops and talks for students to learn and know of new and exciting approaches in the field of ML. To vitalize the research community among our students, we conduct meticulous paper reading sessions to discuss research papers with an aim to pursue research projects.
 
-<br>
+  <br>
 
-As for the budding young members, we bid them to delve deep into the field and develop real-world applications of their learnings.
-
-
- <figure>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/COPS_LOGO.jpg" style="width: 100%">
- </figure>
+  As for the budding young members, we bid them to delve deep into the field and develop real-world applications of their learnings.
 
 
-<br>
+ 
+
+  <br>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
 <!-- Menu -->
@@ -46,34 +44,19 @@ As for the budding young members, we bid them to delve deep into the field and d
 </ol>
 <!-- Items -->
 <div class="carousel-inner" markdown="0">
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+ <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/COPS_LOGO.png" alt="Slide 1" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AS.png" alt="Slide 2" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SN!.png" alt="Slide 3" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPT_CODING_DEMONSTARTION (2).png" alt="Slide 4" />
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-    </div>       
-        <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-    </div>
-</div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+  
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
