@@ -29,6 +29,14 @@
   number_educ: 1
   education1: Upcoming Data Scientist At Microsoft Research
 
+- name: R Tharun Gowda
+  photo: Tharungowda.jpeg
+  website: <a href="https://rtharungowda.github.io/">https://rtharungowda.github.io/</a>
+  info: Reinforcement Learning, Computer Vision
+  email: rtharun.gowda.cd.ece19@iitbhu.ac.in
+  number_educ: 2
+  education1: Upcoming SWE Intern @ Salesforce
+  education2: Research Intern,Changwon National University  - Worked on object detection for advanced driver assistance system (ADAS).
 
 
 

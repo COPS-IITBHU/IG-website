@@ -53,6 +53,9 @@ figure {
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPT_CODING_DEMONSTARTION (2).png" alt="Slide 4" />
     </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/COPS-IG '21 TEAM MEET.png" alt="Slide 5" />
+    </div>
   
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
