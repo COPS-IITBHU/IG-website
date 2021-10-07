@@ -8,6 +8,10 @@ permalink: /
 ---
 
 <style>
+/* added a shift class to shift the carousel's chevron */
+.shift{
+  margin-top: -140px;
+}
 figure {
      margin-bottom:30px;
      margin-top:30px;
@@ -54,12 +58,13 @@ figure {
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GPT_CODING_DEMONSTARTION (2).png" alt="Slide 4" />
     </div>
   
-
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+<!-- added a shift class -->
+  <a class="left carousel-control shift" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+<!-- added a shift class -->
+  <a class="right carousel-control shift" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
