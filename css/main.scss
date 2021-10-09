@@ -10,7 +10,46 @@ img { margin-bottom: 24px;
 
 
 body {
+    background-color: var(--main-background-color);
+    color: var(--main-text-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    padding: 1em;
 	padding-top: 70px;
+}
+
+a {
+    color: var(--link-color)
+}
+
+h1 {
+	color: var(--heading-color)
+}
+
+h2 {
+	color: var(--heading-color)
+}
+
+h3 {
+	color: var(--heading-color)
+}
+
+h4 {
+	color: var(--heading-color)
+}
+
+#theme-toggle{
+	margin-top: 12px;
+	margin-right:-10px;
+	background-color: var(--heading-color);
+	color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: var(--heading-color);
+}
+
+.panel-footer{
+	background-color: var(--panel-background-color);
 }
 
 figcaption {
@@ -81,7 +120,7 @@ firstp {
 }
 
 
-/* Carusel */
+/* Carousel */
 
 .carousel {
     border-radius: 3px 3px 3px 3px;
@@ -91,3 +130,42 @@ firstp {
     margin-right: 30px;
 }
 
+/* Dark Mode */
+
+html, html[data-theme="light"] { 
+	--light-text-color: rgb(72, 72, 74);
+  	--link-color: rgb(0, 112, 201);
+  	--main-background-color: rgb(255, 255, 255);
+  	--main-text-color: rgb(51, 51, 51);
+	--main-heading-color: rgb(51, 51, 51);
+	--panel-background-color: rgb(245, 245, 245);
+}
+
+html[data-theme="dark"] {
+		--light-text-color: rgb(199, 199, 204);
+  		--link-color: rgb( 100, 210, 255);
+  		--main-background-color: rgb(28, 28, 30);
+  		--main-text-color: rgb(229, 229, 234);
+		--main-heading-color: rgb(229, 229, 234);
+		--panel-background-color: rgb(28, 28, 30);
+	}
+
+@media (prefers-color-scheme: dark) {
+	html, html[data-theme="dark"] {
+		--light-text-color: rgb(199, 199, 204);
+  		--link-color: rgb( 100, 210, 255);
+  		--main-background-color: rgb(28, 28, 30);
+  		--main-text-color: rgb(229, 229, 234);
+		--main-heading-color: rgb(229, 229, 234);
+		--panel-background-color: rgb(28, 28, 30);  
+	}
+	
+	html[data-theme="light"] { 
+	--light-text-color: rgb(72, 72, 74);
+  	--link-color: rgb(0, 112, 201);
+  	--main-background-color: rgb(255, 255, 255);
+  	--main-text-color: rgb(51, 51, 51);
+	--main-heading-color: rgb(51, 51, 51);
+	--panel-background-color: rgb(245, 245, 245); 
+	}
+}
