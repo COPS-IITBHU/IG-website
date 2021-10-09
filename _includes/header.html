@@ -14,12 +14,15 @@
       </div>
   <nav id="navbar-collapse-1" class="collapse navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
+
+        
+
               {% assign links = site.data.navigation %}
               {% for link in links %}
-                      {% assign class = nil %}
-                      {% if page.url contains link.url %}
+                      {% assign class = 'active' %}
+                      <!-- {% if page.url contains link.url %}
                               {% assign class = 'active' %}
-                      {% endif %}
+                      {% endif %} -->
                       {% if link.sublinks %}
                               <li class="{{ class }}">
                                       <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
@@ -40,8 +43,30 @@
                       <li class="{{ class }}">
                           <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                   </li>
-          {% endif %}
+          {% endif %}       
   {% endfor %}
+        <!-- <li> -->
+        <!-- <button id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></button> -->
+
+        <!-- </li> -->
+        <head>
+                <script src="https://code.iconify.design/1/1.0.4/iconify.min.js">   </script>
+              </head>
+              <label>
+                      
+                <input class='toggle-checkbox' type='checkbox' id="theme-toggle" onclick="modeSwitcher()" {checkBox}></input>
+                <div class='toggle-slot'>
+                  <div class='sun-icon-wrapper'>
+                    <div class="iconify sun-icon" data-icon="feather-sun" data-inline="false"></div>
+                  </div>
+                  <div class='toggle-button'></div>
+                  <div class='moon-icon-wrapper'>
+                    <div class="iconify moon-icon" data-icon="feather-moon" data-inline="false"></div>
+                  </div>
+                </div>
+              </label>
+              <script src="/IG-website/js/dark-mode.js"></script>
+              
   </ul>
   </nav>
   </div>

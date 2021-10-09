@@ -10,7 +10,147 @@ img { margin-bottom: 24px;
 
 
 body {
+    background-color: var(--main-background-color);
+    color: var(--main-text-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    padding: 1em;
 	padding-top: 70px;
+}
+
+a {
+    color: var(--link-color)
+}
+
+h1 {
+	color: var(--heading-color)
+}
+
+h2 {
+	color: var(--heading-color)
+}
+
+h3 {
+	color: var(--heading-color)
+}
+
+h4 {
+	color: var(--heading-color)
+}
+
+#theme-toggle{
+	margin-top: 12px;
+	margin-right:-10px;
+	background-color: var(--heading-color);
+	color: var(--main-text-color);
+}
+
+.navbar-default .navbar-brand {
+    color: var(--main-text-color);
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    // color: #333333;
+	color: var(--main-text-color);
+    background-color: transparent;
+}
+
+.navbar-default{
+	background-color: var(--main-background-color);
+}
+
+
+.toggle-checkbox {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+	height: 0;
+	width: 0;
+  }
+  
+  .toggle-slot {
+	position: relative;
+	height: 35px;
+	width: 60px;
+	border: 5px solid #e4e7ec;
+	border-radius: 10em;
+	background-color: white;
+	box-shadow: 0px 10px 25px #e4e7ec;
+	transition: background-color 250ms;
+	margin-top: 10px;
+	margin-left: 45px;
+  }
+  
+  .toggle-checkbox:checked ~ .toggle-slot {
+	background-color: #374151;
+  }
+  
+  .toggle-button {
+	transform: translate(25px, 1.75px);
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: #ffeccf;
+	box-shadow: inset 0px 0px 0px 0.75em #ffbb52;
+	transition: background-color 250ms, border-color 250ms, transform 500ms cubic-bezier(.26,2,.46,.71);
+  }
+  
+  .toggle-checkbox:checked ~ .toggle-slot .toggle-button {
+	background-color: #485367;
+	box-shadow: inset 0px 0px 0px 0.75em white;
+	transform: translate(1.75px, 1.75px);
+  }
+  
+  .sun-icon {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	color: #ffbb52;
+  }
+  
+  .sun-icon-wrapper {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	opacity: 1;
+	transform: translate(2px, 2px) rotate(15deg);
+	transform-origin: 50% 50%;
+	transition: opacity 150ms, transform 500ms cubic-bezier(.26,2,.46,.71);
+  }
+  
+  .toggle-checkbox:checked ~ .toggle-slot .sun-icon-wrapper {
+	opacity: 0;
+	transform: translate(3px, 2px) rotate(0deg);
+  }
+  
+  .moon-icon {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	color: white;
+  }
+  
+  .moon-icon-wrapper {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	opacity: 0;
+	transform: translate(25px, 2px) rotate(0deg);
+	transform-origin: 50% 50%;
+	transition: opacity 150ms, transform 500ms cubic-bezier(.26,2.5,.46,.71);
+  }
+  
+  .toggle-checkbox:checked ~ .toggle-slot .moon-icon-wrapper {
+	opacity: 1;
+	transform: translate(25px, 2px) rotate(-6deg);
+  }
+
+.navbar-default .navbar-nav>li>a {
+    color: var(--heading-color);
+}
+
+.panel-footer{
+	background-color: var(--panel-background-color);
 }
 
 figcaption {
@@ -81,7 +221,7 @@ firstp {
 }
 
 
-/* Carusel */
+/* Carousel */
 
 .carousel {
     border-radius: 3px 3px 3px 3px;
@@ -91,3 +231,42 @@ firstp {
     margin-right: 30px;
 }
 
+/* Dark Mode */
+
+html, html[data-theme="light"] { 
+	--light-text-color: rgb(72, 72, 74);
+  	--link-color: rgb(0, 112, 201);
+  	--main-background-color: rgb(255, 255, 255);
+  	--main-text-color: rgb(51, 51, 51);
+	--main-heading-color: rgb(51, 51, 51);
+	--panel-background-color: rgb(245, 245, 245);
+}
+
+html[data-theme="dark"] {
+		--light-text-color: rgb(199, 199, 204);
+  		--link-color: rgb( 100, 210, 255);
+  		--main-background-color: rgb(28, 28, 30);
+  		--main-text-color: rgb(229, 229, 234);
+		--main-heading-color: rgb(229, 229, 234);
+		--panel-background-color: rgb(28, 28, 30);
+	}
+
+@media (prefers-color-scheme: dark) {
+	html, html[data-theme="dark"] {
+		--light-text-color: rgb(199, 199, 204);
+  		--link-color: rgb( 100, 210, 255);
+  		--main-background-color: rgb(28, 28, 30);
+  		--main-text-color: rgb(229, 229, 234);
+		--main-heading-color: rgb(229, 229, 234);
+		--panel-background-color: rgb(28, 28, 30);  
+	}
+	
+	html[data-theme="light"] { 
+	--light-text-color: rgb(72, 72, 74);
+  	--link-color: rgb(0, 112, 201);
+  	--main-background-color: rgb(255, 255, 255);
+  	--main-text-color: rgb(51, 51, 51);
+	--main-heading-color: rgb(51, 51, 51);
+	--panel-background-color: rgb(245, 245, 245); 
+	}
+}
