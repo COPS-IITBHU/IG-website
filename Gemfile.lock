@@ -66,6 +66,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  x86_64-darwin-20
   x86_64-linux
 
 DEPENDENCIES
@@ -77,4 +78,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.2.26
+   2.2.29
