@@ -54,7 +54,7 @@ The list is very selective. There may be a lot of resources out there, but we fe
   - [2.10. Gym](#210-gym)
   - [2.11. Stanford’s Courses for NLP, CV, RL](#211-stanfords-courses-for-nlp-cv-rl)
   - [2.12. Some useful resources for RL](#212-some-useful-resources-for-rl)
-  - [2.12. Pytorch Tutorials](#212-pytorch-tutorials)
+  - [2.13. Pytorch Tutorials](#212-pytorch-tutorials)
 
 
 
@@ -206,7 +206,7 @@ Natural Language Processing CS224: ​ [Youtube link](https://www.youtube.com/pl
 Understanding the concepts in Reinforcement Learning directly from the course can be somewhat challenging. Hence, we provide some additional resources to help you have a smooth experience.
 
 The following two courses can be helpful. If you find CS234 too hard to follow, you can start with either of the two courses below:
-- https://www.coursera.org/specializations/reinforcement-learning
+- [Reinforcement Learning Specialization - Coursera](https://www.coursera.org/specializations/reinforcement-learning)
 - [UCL's course by David Silver](https://www.davidsilver.uk/teaching/);  [youtube link](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
 
 <br>
