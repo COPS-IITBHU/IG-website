@@ -3,7 +3,7 @@ title: "COPS IG - Projects"
 layout: textlay
 excerpt: "Projects"
 sitemap: false
-permalink: /projects
+permalink: projects
 ---
 
 # Projects and Publications
