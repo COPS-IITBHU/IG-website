@@ -2,6 +2,8 @@
   url: /
 - title: People
   url: people
+- title: Projects
+  url: project
 - title: Resources
   url: /
   sublinks:
