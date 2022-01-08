@@ -1,5 +1,5 @@
 - title: "GNN-MARL"
-  image : GNN_Marl.png
+  image : gnn-marl.jpg
   description: This is an implementation of Communication in MARL using Graph Neural Network. This is been trained and tested on StarCraft II, And this has shown improved training and performance metrics throughout all the maps. I have implemented this on top of PyMARL for easier comparative study with respect to other algorithms or implementations like ePyMARL.
   authors: Somnath Kumar
   link:

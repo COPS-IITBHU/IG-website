@@ -16,7 +16,7 @@ permalink: /gnn_marl
 
 <b><a href="https://github.com/hex-plex/GNN-MARL">Code and Details</a></b>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/GNN_Marl.png" class="img-responsive" width="120%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/gnn-marl.jpg" class="img-responsive" width="120%" />
 
 <h4>This is an implementation of Communication in MARL using Graph Neural Network. This is been trained and tested on <a href="https://github.com/deepmind/pysc2">StarCraft II</a>, And this has shown improved training and performance metrics throughout all the maps. I have implemented this on top of <a herf = "https://github.com/oxwhirl/pymarl">PyMARL</a> for easier comparative study with respect to other algorithms or implementations like <a href="https://github.com/uoe-agents/epymarl">ePyMARL</a>.</h4>
 
