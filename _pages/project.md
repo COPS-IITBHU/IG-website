@@ -27,7 +27,7 @@ permalink: /project
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <!-- <img src="{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /> -->
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
+  <p><a href="{{ publi.authorsurl }}"><em>{{ publi.authors }}</em></a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
  </div>
 </div>
