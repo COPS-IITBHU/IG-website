@@ -18,18 +18,22 @@ permalink: /project
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
+<hr>
 <div class="row">
 {% endif %}
+<div>
 
+{% if even_odd == 1 %}
+<div class="col-sm-6 clearfix" style="border-left-style:solid; border-left-width: thin; border-left-color: #ccc; ">
+{% else %}
 <div class="col-sm-6 clearfix">
- <div class="well">
+{% endif %}
   <pubtit><strong><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.title }}</a></strong></pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <!-- <img src="{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /> -->
   <p>{{ publi.description }}</p>
   <p><a href="{{ publi.authorsurl }}"><em>{{ publi.authors }}</em></a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
- </div>
+</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -45,6 +49,7 @@ permalink: /project
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<hr>
 
 ## Full List of publications
 
