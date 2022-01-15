@@ -50,12 +50,3 @@ permalink: /project
 </div>
 {% endif %}
 <hr>
-
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  <a href="{{ publi.link.url }}">{{ publi.title }}</a><br>
-  <em>{{ publi.authors }} </em><br />
-
-{% endfor %}
