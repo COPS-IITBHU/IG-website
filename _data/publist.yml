@@ -6,3 +6,12 @@
   link:
     url: gnn_marl
   highlight: 1
+
+- title: "MAMI Sem Eval"
+  image : mami-sem.png
+  description: In this paper, we focus on hate speech detection in multi-modal memes wherein memes pose an interesting multi-modal fusion problem. We try to solve the Facebook Meme Challenge which aims to solve a binary classification problem of predicting whether a meme is hateful or not.Here we explore the visual modality using object detection and image captioning models to fetch the “actual caption” and then combine it with the multi-modal representation to perform binary classification.
+  authors: Utkarsh Kumar Sahu
+  authorsurl: https://github.com/utkarsh-iitbhu
+  link:
+    url: mami-sem
+  highlight: 1
