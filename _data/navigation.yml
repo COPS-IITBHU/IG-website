@@ -1,5 +1,5 @@
 - title: Home
-  url: 
+  url:
 - title: People
   url: people
 - title: Projects
@@ -11,6 +11,8 @@
         url: roadmap
       - title: AI Exercise
         url: excercise
+      - title: AI/ML/Data Science Roadmap for Beginners
+        url: beginnersRoadmap
 - title: Activities
   url: /
   sublinks:
