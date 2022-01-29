@@ -1,4 +1,3 @@
-
 - name: Eshaan Agarwal
   photo: EshaanAgarwal.jpg
   website: <a href="https://www.linkedin.com/in/eshaanagarwal">Linkedin</a>
@@ -10,36 +9,21 @@
   info: Deep Learning, Parallel computing
   website: <a href="https://www.linkedin.com/in/vidit-agarwal-734236200/">Linkedin</a>
   email: vidit.agarwal.eee20@itbhu.ac.in
-<<<<<<< HEAD
 
 - name: Shreyan Sinha
-=======
-  
-- name: Shreyan Sinha 
->>>>>>> 6dc14423d75dda258492d99a0c7045c0da249129
   photo: ShreyanSinha.png
   info: Computer Vision, Data Science
   email: shreyan.sinha.cd.eee20@itbhu.ac.in
   website: <a href="www.linkedin.com/in/shreyan-sinha-26923a201">Linkedin</a>
-<<<<<<< HEAD
 
 # - name: Ayush Kumar Shaw
-=======
-  
-# - name: Ayush Kumar Shaw 
->>>>>>> 6dc14423d75dda258492d99a0c7045c0da249129
 #   photo: AyushKumarShaw.jpg
 #   info: Reinforcement Learning, Computer Vision
 #   email: ayush.kumarshaw.ece19@iitbhu.ac.in
 #   number_educ: 1
 #   education1: Upcoming Data Scientist At Microsoft Research
-<<<<<<< HEAD
 
 # - name: Vikhyath Venkatraman
-=======
-  
-# - name: Vikhyath Venkatraman 
->>>>>>> 6dc14423d75dda258492d99a0c7045c0da249129
 #   photo: VikhyathVenkatraman.png
 #   info: Computer Vision, Reinforcement Learning
 #   email: vikhyath.pvenkatraman.ece19@iitbhu.ac.in
