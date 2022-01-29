@@ -1,53 +1,15 @@
+ 
+- name: Eshaan Agarwal 
+  photo: EshaanAgarwal.jpg
+  website: <a href="https://www.linkedin.com/in/eshaanagarwal">Linkedin</a>
+  info: Natural Language Processing, Reinforcement Learning 
+  email: eshaan.agarwal.eee20@itbhu.ac.in
 
-- name: Niyati Srivastava
-  photo: Niyati.jfif
-  info: Natural Language Vision, Computer Vision, Data Science
-  website: <a href="https://www.linkedin.com/company/77235804/admin/">Linkedin</a>
-  email: niyati.srivastava.mec20@itbhu.ac.in
-
-- name: Aditya Kumar
-  photo: AdityaKumar.jpg
-  info: Natural Language Processing
-  website: <a href="https://arch-raven.github.io/">https://arch-raven.github.io/</a>
-  email: aditya.kumar.cer19@iitbhu.ac.in
-  number_educ: 2
-  education1: Former Intern at rephrase.ai
-  education2: Former Research Intern at IIT Patna
-
-- name: Yash Sahijwani
-  photo: YashSahijwani.jpg
-  website: <a href="https://terabyte17.github.io/">https://terabyte17.github.io/</a>
-  info: Computer Vision, Reinforcement Learning
-  email: yash.sahijwani.ece19@itbhu.ac.in
-  number_educ: 2
-  education1: Currently working on Computer Vision
-  education2: Incoming intern @ Wells Fargo
-
-- name: Aman Mishra
-  photo: AmanMishra.jpeg
-  website: <a href="https://amshra267.github.io/Amshra267_Website/">https://amshra267.github.io/</a>
-  info: Computer Vision, Data Science #and Design And Analysis of RL Algorithms
-  email: aman.mishra.ece19@itbhu.ac.in
-  number_educ: 2
-  education1: Currently Working as a Remote Research Intern in Canada
-  education2: Former Research Intern at Silence Laboratories
-
-- name: Lavish Bansal
-  photo: LavishBansal.jpeg
-  website: <a href="https://lavish619.github.io/">https://lavish619.github.io/</a>
-  info: Computer Vision, Adversarial ML
-  email: lavish.bansal.mat19@iitbhu.ac.in
-  number_educ: 2
-  education1: Research Intern, VAL, IISc - Working on Adversarial Robustness
-  education2: Summer Research internship, IIT Hyderabad - Worked on Semantic Segmentation for remote sensing Images
-
-- name: L N Saaswath 
-  photo: LNSaaswath.jpg
-  info: Computer Vision, Computer Architecture, GANs
-  email: ln.saaswath.eee19@iitbhu.ac.in
-  website: <a href="https://www.linkedin.com/in/lnsaaswath/">Linkedin</a>
-  number_educ: 1
-  education1: SRFP '21 - Discussion Forum Analysis
+- name: Shreyan Sinha 
+  photo: ShreyanSinha.png
+  info: Computer Vision, Data Science
+  email: shreyan.sinha.cd.eee20@itbhu.ac.in 
+  website: <a href="www.linkedin.com/in/shreyan-sinha-26923a201">Linkedin</a>
   
 - name: Ayush Kumar Shaw 
   photo: AyushKumarShaw.jpg
