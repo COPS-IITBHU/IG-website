@@ -1,23 +1,29 @@
- 
+
 - name: Yash Shimpi
   photo: YashShimpi.jpg
   website: <a href="https://www.linkedin.com/in/yash-shimpi-42328b1b9/">Linkedin</a>
   info: Computer Vision
   email: yashmanish.shimpi.min20@itbhu.ac.in
 
-- name: Utkarsh Kumar Sahu  
+- name: Utkarsh Kumar Sahu
   photo: UtkarshSahu.jpeg
   website: <a href="https://www.linkedin.com/in/utkarshkumarsahu/">Linkedin</a>
-  info: Natural Language Processing, Computer Vision 
+  info: Natural Language Processing, Computer Vision
   email: utkarsh.kumarsahu.cer20@itbhu.ac.in
-  
-- name: Dev Raj R 
+
+- name: Vidit Agarwal
+  photo: Vidit.jpeg
+  info: Deep Learning, Parallel computing
+  website: <a href="https://www.linkedin.com/in/vidit-agarwal-734236200/">Linkedin</a>
+  email: vidit.agarwal.eee20@itbhu.ac.in
+
+- name: Dev Raj R
   photo: DevRaj.png
   website: <a href="https://www.linkedin.com/in/dev-raj-r-24b371228">Linkedin</a>
   info: Reinforcement Learning, Computer Vision, Data Science
   email: dev.rajr.mat20@itbhu.ac.in
-  
-- name: Vivek Agarwal 
+
+- name: Vivek Agarwal
   photo: VivekAgarwal.jpg
   website: <a href="https://www.linkedin.com/in/vivek-agarwal-619004200">Linkedin</a>
   info: Computer Vision, Reinforcement Learning
@@ -32,7 +38,7 @@
 - name: Vaibhav Tripathi
   photo: Vaibhav.jpeg
   website: <a href="https://www.linkedin.com/in/vaibhav-tripathi-270b46204">Linkedin</a>
-  info: Data Analytics, Computer Vision, Robotics 
+  info: Data Analytics, Computer Vision, Robotics
   email: vaibhavschool7@gmail.com
 
 - name: Utkarsh Pandey
@@ -45,12 +51,6 @@
   photo: Amogh.jpg
   info: Reinforcement Learning, Computer Vision
   email: amoghprashant.raut.cd.mat19@itbhu.ac.in
-
-- name: Vidit Agarwal
-  photo: Vidit.jpeg
-  info: Deep Learning, Parallel computing
-  website: https://www.linkedin.com/in/vidit-agarwal-734236200/
-  email: vidit.agarwal.eee20@itbhu.ac.in
 
 
 

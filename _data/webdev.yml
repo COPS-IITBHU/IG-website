@@ -1,38 +1,44 @@
- 
-- name: Eshaan Agarwal 
+
+- name: Eshaan Agarwal
   photo: EshaanAgarwal.jpg
   website: <a href="https://www.linkedin.com/in/eshaanagarwal">Linkedin</a>
-  info: Natural Language Processing, Reinforcement Learning 
+  info: Natural Language Processing, Reinforcement Learning
   email: eshaan.agarwal.eee20@itbhu.ac.in
 
-- name: Shreyan Sinha 
+- name: Vidit Agarwal
+  photo: Vidit.jpeg
+  info: Deep Learning, Parallel computing
+  website: <a href="https://www.linkedin.com/in/vidit-agarwal-734236200/">Linkedin</a>
+  email: vidit.agarwal.eee20@itbhu.ac.in
+
+- name: Shreyan Sinha
   photo: ShreyanSinha.png
   info: Computer Vision, Data Science
-  email: shreyan.sinha.cd.eee20@itbhu.ac.in 
+  email: shreyan.sinha.cd.eee20@itbhu.ac.in
   website: <a href="www.linkedin.com/in/shreyan-sinha-26923a201">Linkedin</a>
-  
-- name: Ayush Kumar Shaw 
-  photo: AyushKumarShaw.jpg
-  info: Reinforcement Learning, Computer Vision
-  email: ayush.kumarshaw.ece19@iitbhu.ac.in
-  number_educ: 1
-  education1: Upcoming Data Scientist At Microsoft Research
-  
-- name: Vikhyath Venkatraman 
-  photo: VikhyathVenkatraman.png
-  info: Computer Vision, Reinforcement Learning
-  email: vikhyath.pvenkatraman.ece19@iitbhu.ac.in
-  number_educ: 1
-  education1: Upcoming Data Scientist At Microsoft Research
 
-- name: R Tharun Gowda
-  photo: Tharungowda.jpeg
-  website: <a href="https://rtharungowda.github.io/">https://rtharungowda.github.io/</a>
-  info: Reinforcement Learning, Computer Vision
-  email: rtharun.gowda.cd.ece19@iitbhu.ac.in
-  number_educ: 2
-  education1: Upcoming SWE Intern @ Salesforce
-  education2: Research Intern,Changwon National University  - Worked on object detection for advanced driver assistance system (ADAS).
+# - name: Ayush Kumar Shaw
+#   photo: AyushKumarShaw.jpg
+#   info: Reinforcement Learning, Computer Vision
+#   email: ayush.kumarshaw.ece19@iitbhu.ac.in
+#   number_educ: 1
+#   education1: Upcoming Data Scientist At Microsoft Research
+
+# - name: Vikhyath Venkatraman
+#   photo: VikhyathVenkatraman.png
+#   info: Computer Vision, Reinforcement Learning
+#   email: vikhyath.pvenkatraman.ece19@iitbhu.ac.in
+#   number_educ: 1
+#   education1: Upcoming Data Scientist At Microsoft Research
+
+# - name: R Tharun Gowda
+#   photo: Tharungowda.jpeg
+#   website: <a href="https://rtharungowda.github.io/">https://rtharungowda.github.io/</a>
+#   info: Reinforcement Learning, Computer Vision
+#   email: rtharun.gowda.cd.ece19@iitbhu.ac.in
+#   number_educ: 2
+#   education1: Upcoming SWE Intern @ Salesforce
+#   education2: Research Intern,Changwon National University  - Worked on object detection for advanced driver assistance system (ADAS).
 
 
 
