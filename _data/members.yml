@@ -41,22 +41,22 @@
   education1: Research Intern, VAL, IISc - Working on Adversarial Robustness
   education2: Summer Research internship, IIT Hyderabad - Worked on Semantic Segmentation for remote sensing Images
 
-- name: L N Saaswath 
+- name: L N Saaswath
   photo: LNSaaswath.jpg
   info: Computer Vision, Computer Architecture, GANs
   email: ln.saaswath.eee19@iitbhu.ac.in
   website: <a href="https://www.linkedin.com/in/lnsaaswath/">Linkedin</a>
   number_educ: 1
   education1: SRFP '21 - Discussion Forum Analysis
-  
-- name: Ayush Kumar Shaw 
+
+- name: Ayush Kumar Shaw
   photo: AyushKumarShaw.jpg
   info: Reinforcement Learning, Computer Vision
   email: ayush.kumarshaw.ece19@iitbhu.ac.in
   number_educ: 1
   education1: Upcoming Data Scientist At Microsoft Research
-  
-- name: Vikhyath Venkatraman 
+
+- name: Vikhyath Venkatraman
   photo: VikhyathVenkatraman.png
   info: Computer Vision, Reinforcement Learning
   email: vikhyath.pvenkatraman.ece19@iitbhu.ac.in
@@ -71,6 +71,11 @@
   number_educ: 2
   education1: Upcoming SWE Intern @ Salesforce
   education2: Research Intern,Changwon National University  - Worked on object detection for advanced driver assistance system (ADAS).
+
+- name: Ayush Ishan
+  photo: unknown.jpeg
+  info: Reinforcement Learning
+  email: ayush.ishan.met20@iitbhu.ac.in
 
 
 
