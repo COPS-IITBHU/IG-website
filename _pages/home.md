@@ -77,7 +77,4 @@ figure {
  People new to the field of ML&AI may visit the curated roadmap under the resources head. On the flip side, if you wish to learn about our current ventures, head on to the activities page. Visit the people section to know about the multiple accolades garnered by the members of COPS IG.
  <br>
  <br>
- <br> 
-
-
-  
+ <br>
