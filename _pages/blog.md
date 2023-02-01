@@ -6,39 +6,55 @@ sitemap: false
 permalink: /blog
 ---
 
-# Research
+# Inter IIT Tech Meet
+![]({{ site.url }}{{ site.baseurl }}/images/inter.jpg){: style="width: 40%; float: center; margin: 10px"}
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+It is the annual technological competition organized by the Indian Institutes of Technology and qualifies as the only technical event wherein all the IITs participate.
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+Tech Meet tries to involve students to work on real life problems pertaining to local issues and areas which require attention but are not extensively addressed through different platforms.
 
-Here are some themes and techniques that we currently work on:
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Motivation:**
+Inter IIT Tech Meet is a consequence of students of various IITs coming together envisioning a progressive India. We know that there are countless problems which our country faces due to its population, geographic expanse, climate, infrastructure etc.
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+**Experience** 
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px 10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+Inter IIT tech meet 10.0 held in 2022 ended with a blast with our teams outshining the rest in many events. We bagged the silver medal in it.
+The whole process from getting selected for the inter-IIT team to representing the college at IIT Kharagpur was a great learning process for all the participants,  here we have tried to present a glimpse of inter IIT as the last year's participants talk about their journey and experiences.
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+**Some PS of Inter IIT:**
+ 1. ***[Low Prep](https://interiit-tech.org/images/ps/Low_CG.pdf)***
 
-We also detected and investigated a quite particular YSR state in the same material.
+ 2. ***[Mid Prep](https://interiit-tech.org/images/ps/Mid_CloudPhy.pdf)***
 
-**Ultra-stable SI-STM instrument.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+ 3. ***[High Prep](https://interiit-tech.org/images/ps/High_Drona.pdf)***
 
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from quantum gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren.
 
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+***Common Questions***
 
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
+Q.1.What was your vision for inter IIT?
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+Ans. I was always keen to represent my college at the inter-IIT level to compete at the highest stage and to win. Also, it was the first event "offline". Also, I felt that it was time to test my skills. 
 
-### ... and more.
+Q.2  What were your biggest takeaways?
+
+Ans. Anything can be researched if you want to, no technology or problem is unsolvable. This experience changed my outlook on problem-solving. Also, PhD seniors and     proofs are nice, they have a lot of knowledge and experience which help you alot.
+
+Q 4. How did you deal with the pressure?
+
+Ans. I would that you break your task into smaller tasks and try achieving small improvements moment by moment, hour by hour, and at the end of the day, you must have   progressed a lot.
+
+Q 5. How was your experience of working with the best minds of the institute in the respective fields?
+
+Ans. Super nice, our +1 and batchmates contributed as much as they can, PhD fellows and proofs were also nice, SNTC genetics also arranged for help we required.
+
+Q6. What are your tips for next year's team?
+
+Ans. Make a baseline solution as soon as possible, which would just pass the submission requirements and then start making improvements to it, bit by bit. Consistency is the key, research a lot and experiment as much as you can.
+
+Q7.What are the mistakes you think you or the team  had committed?
+
+Ans. Time constraints should be kept in mind, working on deadlines should be avoided also, avoid procrastination.
+
+***[Inter IIT 2023](https://interiit-tech.org/)***
+
