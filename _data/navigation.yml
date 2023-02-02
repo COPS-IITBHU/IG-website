@@ -13,6 +13,11 @@
         url: excercise
       - title: AI/ML/Data Science Roadmap for Beginners
         url: beginnersRoadmap
+- title: Blogs
+  url: /
+  sublinks:
+      - title: InterIIT
+        url: interiit
 - title: Activities
   url: /
   sublinks:
