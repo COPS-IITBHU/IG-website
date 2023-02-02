@@ -1,9 +1,9 @@
 ---
-title: "COPS IG - Blog"
+title: "COPS IG - Blog - InterIIT"
 layout: textlay
 excerpt: "COPS IG -- Blog"
 sitemap: false
-permalink: /blog
+permalink: /interiit
 ---
 
 # Inter IIT Tech Meet
